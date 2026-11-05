@@ -3,6 +3,8 @@
 # SPDX-License-Identifier: Apache-2.0
 # -----------------------------------------------------------------------------
 
+/tmp
+/tmp_doc
 /projects/*/sim
 /projects/*/imp
 __pycache__
